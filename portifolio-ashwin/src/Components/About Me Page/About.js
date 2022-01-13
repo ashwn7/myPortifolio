@@ -34,7 +34,7 @@ function About() {
       </div>
       <img
         className="about__headshot"
-        src="/images/AshwinBalajiDhandapani.jpeg"
+        src="./images/AshwinBalajiDhandapani.jpeg"
         alt="Brand Logo"
         width="300"
         height="425"

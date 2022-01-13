@@ -10,7 +10,7 @@ function PurpleArrows() {
     >
       <img
         className="purpleArrows"
-        src="/images/bottom_purple_arrows.svg"
+        src="./images/bottom_purple_arrows.svg"
         alt="bottom puruple arrows"
       />
     </NavHashLink>
