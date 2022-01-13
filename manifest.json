@@ -1,0 +1,11 @@
+{
+    "short_name": "Ashwin Balaji Dhandapani",
+    "name": "Ashwin Balaji Dhandapani Portfolio Website",
+    "icons": [
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+  }
+  

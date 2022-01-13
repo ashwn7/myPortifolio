@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portifolio-ashwin/static/css/main.1bc82820.css",
+    "main.js": "/portifolio-ashwin/static/js/main.c3ac4a69.js",
+    "static/js/787.3d251ecf.chunk.js": "/portifolio-ashwin/static/js/787.3d251ecf.chunk.js",
+    "index.html": "/portifolio-ashwin/index.html",
+    "main.1bc82820.css.map": "/portifolio-ashwin/static/css/main.1bc82820.css.map",
+    "main.c3ac4a69.js.map": "/portifolio-ashwin/static/js/main.c3ac4a69.js.map",
+    "787.3d251ecf.chunk.js.map": "/portifolio-ashwin/static/js/787.3d251ecf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bc82820.css",
+    "static/js/main.c3ac4a69.js"
+  ]
+}
