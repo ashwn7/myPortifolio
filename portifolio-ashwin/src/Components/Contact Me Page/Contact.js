@@ -9,7 +9,7 @@ function Contact() {
         <h2 className="contact__heading">Contact Me</h2>
         <p className="contact__p">
           Currently, Seeking a Fall / Summer 2022 Software Development
-          Internship
+          Intern and Full-time roles
         </p>
         <div className="contact__option">
           <FaMailBulk className="contact__logo" size={45} />
