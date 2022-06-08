@@ -6,7 +6,7 @@ function SocialMediaIcons() {
     <div className="socialMediaIcons">
       <hr className="socialMediaIcons__leftHr hr" />
       <a
-        href="https://github.com/ashwn7"
+        href="https://github.com/ashwinbalajidhandapani"
         target="_blank"
         rel="noopener noreferrer"
         aria-label="GitHub"
