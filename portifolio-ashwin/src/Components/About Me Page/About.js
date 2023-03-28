@@ -15,13 +15,14 @@ function About() {
       <div data-aos="fade-right" className="about__text">
         <h2 className="about__heading">About Me</h2>
         <p className="about__body">
-          Hello! My name is Ashwin Balaji Dhandapani and I am a Graduate Student at{" "}
+          Greetings! I'm Ashwin Balaji Dhandapani, a graduate student{" "}
           <span className="about__specialText">Northeastern University, Boston</span>{" "}
-          I have 3.5 years of experience across jobs such as PLM consultant, Software Quality Analyst and DevSecOps Engineer{" "}
-          I have interest in becoming a <span className="about__specialText">Full stack developer</span>,
-          developing Front-end, creating APIs, and working with databases. Also, I am extremely
-          interested in CyberSecurity, more specifically <span className="about__specialText">DevSecOps,
+          With 3.5 years of experience as a Software Engineer, I've honed my skills in Java Development, PLM, Software Quality, and DevSecOps{" "}
+          I'm passionate about becoming a <span className="about__specialText">Full stack developer</span>,
+          developing Front-end, creating APIs, and working with databases. Additionally, I have a keen interest 
+          in Cybersecurity, particularly in the areas of <span className="about__specialText">DevSecOps
           </span> <span className="about__specialText">Security Automations</span> and <span className="about__specialText">Penetration Testing.</span>
+          My goal is to continue expanding my knowledge and expertise in these fields to become a well-rounded software developer.
         </p>
         <br />
         <p className="about__body">

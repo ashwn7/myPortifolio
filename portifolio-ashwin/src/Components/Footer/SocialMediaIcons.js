@@ -14,7 +14,7 @@ function SocialMediaIcons() {
         <FaGithub className="socialMediaIcons__github footer__icon" size={30} />
       </a>
       <a
-        href="https://www.linkedin.com/in/ashwin-balaji-dhandapani"
+        href="https://github.com/ashwinbalajidhandapani"
         target="_blank"
         rel="noopener noreferrer"
         aria-label="Linkedin"

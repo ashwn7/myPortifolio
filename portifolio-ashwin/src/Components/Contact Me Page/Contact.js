@@ -8,8 +8,7 @@ function Contact() {
       <div data-aos="fade-right" className="contact__body">
         <h2 className="contact__heading">Contact Me</h2>
         <p className="contact__p">
-          Currently, Seeking a Fall / Summer 2022 Software Development
-          Internship
+          Currently, Seeking Full time Software Development Roles
         </p>
         <div className="contact__option">
           <FaMailBulk className="contact__logo" size={45} />
